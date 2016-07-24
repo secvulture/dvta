@@ -13,4 +13,6 @@ Some of the vulnerabilities covered in this Application.
 8. DLL Hijacking
 9. Clear text data in transit
 
+Requires .NET version 4.5
+
 More Documentation Coming soon!
