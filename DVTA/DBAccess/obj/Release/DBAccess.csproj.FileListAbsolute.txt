@@ -1,0 +1,4 @@
+D:\DVTA\DVTA\DBAccess\bin\Release\DBAccess.dll
+D:\DVTA\DVTA\DBAccess\bin\Release\DBAccess.pdb
+D:\DVTA\DVTA\DBAccess\obj\Release\DBAccess.dll
+D:\DVTA\DVTA\DBAccess\obj\Release\DBAccess.pdb
