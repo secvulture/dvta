@@ -9,9 +9,10 @@ Some of the vulnerabilities covered in this Application.
 4. Lack of code obfuscation
 5. Exposed decryption logic
 6. SQL Injection
-7. Sensitive data in memory
-8. DLL Hijacking
-9. Clear text data in transit
+7. CSV Injection
+8. Sensitive data in memory
+9. DLL Hijacking
+10. Clear text data in transit
 
 Requires .NET version 4.5
 
