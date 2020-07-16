@@ -1,3 +1,5 @@
+THIS PROJECT HAS BEEN MOVED TO: https://github.com/srini0x00/dvta
+------------------------------------------------------------------
 
 DVTA is a Vulnerable Thick Client Application developed in C# .NET
 
