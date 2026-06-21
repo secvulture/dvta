@@ -1,24 +1,25 @@
 # DVTA - Damn Vulnerable Thick Client Application
 
-**Author:** Suryaprakash Nalluri (SecVulture)
-**Current maintained version:** https://github.com/nddmars/dvta
+**Author:** Suryaprakash Nalluri (SecVulture)  
+**Current maintained version:** https://github.com/nddmars/dvta  
 **Community fork:** https://github.com/srini0x00/dvta
----------------------------------------------------------------------
+
+---
 
 DVTA is a Vulnerable Thick Client Application developed in C# .NET
 
-Some of the vulnerabilities covered in this Application.
+Some of the vulnerabilities covered in this Application:
 
-1. Insecure local data storage
-2. Insecure logging
-3. Weak cryptography
-4. Lack of code obfuscation
-5. Exposed decryption logic
-6. SQL Injection
-7. CSV Injection
-8. Sensitive data in memory
-9. DLL Hijacking
-10. Clear text data in transit
+- Insecure local data storage
+- Insecure logging
+- Weak cryptography
+- Lack of code obfuscation
+- Exposed decryption logic
+- SQL Injection
+- CSV Injection
+- Sensitive data in memory
+- DLL Hijacking
+- Clear text data in transit
 
 Requires .NET version 4.5
 
